@@ -1,0 +1,19 @@
+﻿  main.cpp
+C:\Users\Luis Autran\Desktop\MontesAutran_Proyecto\GRAFICACION1\GRAFICACION1\Matrices.h(155,19): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Luis Autran\Desktop\MontesAutran_Proyecto\GRAFICACION1\GRAFICACION1\Matrices.h(166,19): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Luis Autran\Desktop\MontesAutran_Proyecto\GRAFICACION1\GRAFICACION1\Matrices.h(179,19): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Luis Autran\Desktop\MontesAutran_Proyecto\GRAFICACION1\GRAFICACION1\main.cpp(119,93): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Luis Autran\Desktop\MontesAutran_Proyecto\GRAFICACION1\GRAFICACION1\main.cpp(120,93): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Luis Autran\Desktop\MontesAutran_Proyecto\GRAFICACION1\GRAFICACION1\main.cpp(121,93): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Luis Autran\Desktop\MontesAutran_Proyecto\GRAFICACION1\GRAFICACION1\main.cpp(143,12): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Luis Autran\Desktop\MontesAutran_Proyecto\GRAFICACION1\GRAFICACION1\main.cpp(154,14): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Luis Autran\Desktop\MontesAutran_Proyecto\GRAFICACION1\GRAFICACION1\main.cpp(164,12): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Luis Autran\Desktop\MontesAutran_Proyecto\GRAFICACION1\GRAFICACION1\main.cpp(165,12): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Luis Autran\Desktop\MontesAutran_Proyecto\GRAFICACION1\GRAFICACION1\main.cpp(166,12): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Luis Autran\Desktop\MontesAutran_Proyecto\GRAFICACION1\GRAFICACION1\main.cpp(595,8): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\Luis Autran\Desktop\MontesAutran_Proyecto\GRAFICACION1\GRAFICACION1\main.cpp(601,8): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\Luis Autran\Desktop\MontesAutran_Proyecto\GRAFICACION1\GRAFICACION1\main.cpp(610,8): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\Luis Autran\Desktop\MontesAutran_Proyecto\GRAFICACION1\GRAFICACION1\main.cpp(619,8): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\Luis Autran\Desktop\MontesAutran_Proyecto\GRAFICACION1\GRAFICACION1\main.cpp(626,14): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\Luis Autran\Desktop\MontesAutran_Proyecto\GRAFICACION1\GRAFICACION1\main.cpp(632,14): warning C4305: '-=': truncamiento de 'double' a 'float'
+  GRAFICACION1.vcxproj -> C:\Users\Luis Autran\Desktop\MontesAutran_Proyecto\GRAFICACION1\Debug\GRAFICACION1.exe

@@ -1,0 +1,19 @@
+# Archivos y directorios generados por compilación
+*.o
+*.out
+*.exe
+*.dll
+*.so
+*.dylib
+*.pdb
+*.a
+
+# Archivos generados por el IDE
+.vscode/
+.idea/
+
+# Archivos temporales
+*.swp
+*~
+.DS_Store
+Thumbs.db
